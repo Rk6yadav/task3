@@ -1,0 +1,10 @@
+Documentation:
+1 Build the CNN architecture. here CNN arch. saved in task3.py
+2 build a docker image file with help of "dockerfile". which have diffrent python modules.
+3 Provide the power of jenkins.
+4. configure the jenkins.
+6 build a job job1. here providing the sc portal address of job1 config.
+7 build job2 for start the cnn libraries according to requriements. also one thing job2 will execute only after job1 sccucessfully completed.
+8 build the job3 where system will provide the accuracy of cnn model.
+9 build the job4  for check the accuracy saved in acc.txt file by job3. if the accuracy is grater then 80% the execute the shell otherwise shell will not execute.
+10. build the job5 this job will check the container image working.
